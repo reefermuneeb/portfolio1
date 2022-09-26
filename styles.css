@@ -1,0 +1,298 @@
+#titlesec {
+  margin-bottom: 5rem;
+  padding-top: 2rem;
+}
+.title-interface {
+  padding: 3% 10%;
+  background: linear-gradient(to right, #4da9f1, #42cfff);
+  color: #fff;
+}
+#main {
+  margin-top: 30px solid;
+}
+.topheading {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: bolder;
+  padding-bottom: 1rem;
+}
+p {
+  padding-bottom: 3rem;
+  color: #8f8f8f;
+}
+.parafc {
+  color: #fff;
+  margin-bottom: 0%;
+}
+h3 {
+  font-weight: bold;
+}
+/* navbar */
+.navclass {
+  padding: 0 8rem;
+  background-color: #fff;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 4;
+}
+.navbar-brand {
+  font-size: 2rem;
+  font-weight: bold;
+  padding-right: 3rem;
+}
+.navlink {
+  font-size: 1.2rem;
+  font-family: "Montserrat-light";
+  font-weight: bold;
+  padding: 0 2rem;
+}
+.loadmore-button {
+  background-color: #fff;
+  padding: 0.5rem 1.2rem;
+  border-radius: 40px;
+  font-weight: bold;
+}
+.loadmore-button:hover {
+  background-color: rgb(74, 178, 244);
+}
+.sec2heading {
+  text-align: center;
+}
+#features {
+  padding-top: 6rem;
+}
+.icon {
+  padding: 5rem 11rem;
+}
+.icon:hover {
+  color: #4da9f1;
+}
+.row {
+  margin: 0;
+}
+#testimonials {
+  background-color: #f9f9ff;
+  padding: 8rem 0;
+  margin-bottom: 2rem;
+}
+.testimonials-text {
+  padding: 50px;
+}
+.see-detail-button {
+  background: linear-gradient(to right, #4da9f1, #42cfff);
+  font-weight: bold;
+  border-radius: 40px;
+  padding: 1rem 1.5rem;
+}
+.see-detail-button:hover {
+  background: linear-gradient(to right, #fff, #f9f9ff);
+}
+.image4 {
+  text-align: center;
+  padding: 1rem;
+}
+#press {
+  width: 75%;
+  margin: 50px auto;
+  display: grid;
+  text-align: center;
+}
+.image4:hover {
+  background: linear-gradient(to right, #4da9f1, #42cfff);
+  box-shadow: 5px 5px 5px 5px #888888;
+  color: #fff;
+}
+h4 {
+  font-weight: bold;
+}
+
+
+#video-container{
+  width: 100%;
+  height: 70vh;
+  margin: 0%;
+  padding: 0%;
+  position: relative;
+}
+
+.video-image{
+  width: 100%;
+  height: 70vh;
+  opacity: 0.5;
+  margin: 0%;
+  padding: 0%;
+}
+.video-container1{
+  width: 100%;
+  height: 70vh;
+  margin: 0%;
+  padding: 0%;
+  background-color: #4da9f1;
+}
+
+.overlay{
+object-fit: cover;
+position: absolute;
+top: 40%;
+z-index: 2;
+left: 45%;
+}
+.video-text{
+  object-fit: cover;
+position: absolute;
+top: 70%;
+z-index: 2;
+left: 60%;
+color: #fff;
+}
+.video-text-para{
+  color: #fff;
+}
+
+
+
+
+#features-second-container {
+  margin-bottom: 8rem;
+}
+.sec5heading {
+  text-align: center;
+}
+.sec6heading {
+  font-weight: bold;
+}
+.second-features-img:hover {
+  opacity: 0.3;
+}
+#pricing-container {
+  background-color: #f9f9ff;
+  padding-top: 2rem;
+}
+
+.card-border {
+  cursor: pointer;
+}
+.card-text {
+  padding: 1px;
+  margin: 0;
+}
+.card-price {
+  color: black;
+  font-size: xx-large;
+  font-weight: bold;
+  padding: 0;
+  margin: 1rem 0;
+  text-align: center;
+}
+.card-border:hover .card-hover {
+  color: #fff !important;
+  background: linear-gradient(to right, #4da9f1, #42cfff);
+  cursor: pointer;
+}
+.card-border:hover .c-button-hover {
+  background-color: #fff;
+  color: black;
+}
+
+.card-border:hover .card-text {
+  color: white;
+}
+
+.card-hover {
+  padding-bottom: 4rem;
+}
+.c-button {
+  padding-left: 6rem;
+}
+
+.card-border:hover .card-subtitle {
+  color: #8f8f8f;
+}
+
+.my-card {
+  border-color: black;
+  border: 1px solid;
+}
+.my-card:hover {
+  box-shadow: 3px 3px 3px 3px #888888;
+}
+.card-body {
+  padding: 2rem;
+}
+
+.number-heading {
+  color: #42cfff;
+  font-size: 3rem;
+  font-weight: bolder;
+  padding-bottom: 1.2rem;
+  margin-bottom: 0%;
+}
+.content-heading {
+  font-size: 1.3rem;
+  padding-bottom: 1rem;
+  font-weight: 500;
+}
+.sub-heading {
+  font-size: xx-large;
+  font-weight: bolder;
+}
+
+#Download-App {
+  background: linear-gradient(to right, #4da9f1, #42cfff);
+}
+.download-button {
+  background-color: #fff;
+  width: 13rem;
+  height: 5rem;
+  margin-left: 2rem;
+  text-align: center;
+  padding-top: 0.2rem;
+}
+.available {
+  font-size: 1.7rem;
+  font-weight: 600;
+}
+.download-tag {
+  color: #42cfff;
+}
+.download-button:hover {
+  background: linear-gradient(to right, #4da9f1, #42cfff);
+  border-color: #fff !important;
+}
+.download-button:hover .download-tag {
+  color: #fff;
+}
+.download-button:hover .download-button-text1 {
+  color: #fff;
+}
+.download-button-text {
+  text-decoration: none;
+}
+#footer {
+  background-color: rgb(34, 34, 34);
+  color: #fff;
+}
+.footer-list {
+  text-decoration: none;
+}
+ul.no-bullets {
+  list-style-type: none;
+}
+.list-heading {
+  font-size: large;
+  font-weight: bold;
+}
+.heart-color {
+  color: #4da9f1;
+}
+.name-color {
+  color: #4da9f1;
+}
+.icon-container {
+  font-size: 2rem;
+}
+.sub-button {
+  margin-top: 8.5rem;
+}
